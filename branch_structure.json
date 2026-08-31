@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "dd-1032-sanitizer-invariants",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "dd-1032-sanitizer-invariants": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "dd-1032-sanitizer-invariants",
+    "origin"
+  ]
+}
